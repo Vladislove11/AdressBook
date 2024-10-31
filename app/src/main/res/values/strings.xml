@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AdressBook</string>
+    <string name="title_exit">Выход из приложения</string>
+</resources>
